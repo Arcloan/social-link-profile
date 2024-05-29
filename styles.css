@@ -22,7 +22,7 @@ body {
 }
 
 .container {
-    width: 50vi;
+    width: 25vi;
     border-radius: 1em;
     background-color: var(--dark-grey);
     padding: 3em;
